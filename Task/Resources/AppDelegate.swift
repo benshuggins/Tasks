@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Task
 //
-//  Created by Deniz Tutuncu on 1/30/19.
-//  Copyright © 2019 Deniz Tutuncu. All rights reserved.
+//  Created by BenHuggins  on 1/30/19.
+//  Copyright © 2019 BenHuggins . All rights reserved.
 //
 
 import UIKit
